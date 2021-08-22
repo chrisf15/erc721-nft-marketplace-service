@@ -1,10 +1,10 @@
 # NFT Market AWS Serverless Lambda Service 
 
-![GitHub](https://img.shields.io/github/license/silviopaganini/nft-market-service?style=round)
+![GitHub](https://img.shields.io/github/license/chrisf15/erc721-nft-marketplace-service?style=round)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=round)](https://github.com/prettier/prettier)
 ![](https://img.shields.io/badge/Typescript-💪-blue)
 
-To use together with [NFT Marketplace](https://github.com/silviopaganini/nft-market)
+To use together with [NFT Marketplace](https://github.com/chrisf15/erc721-nft-marketplace)
 
 ## Installation
 
@@ -36,3 +36,12 @@ IPFS_INFURA_SECRET:
 ```
 npm start
 ```
+
+
+## 💰 Sponsor this project
+
+Donations in ETH or BTC are welcome 
+
+**ETH** `0xED30011daaA927510A052F9B4C2d64d01332277B`
+
+**BTC** `37K5FEbgLUDuZNTUYVF1SuP1AhmV8JNcUD`
